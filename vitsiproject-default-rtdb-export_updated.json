@@ -1,0 +1,251 @@
+{
+    "audios": {
+        "audioId1": {
+            "audioId": "audioId1",
+            "authorUid": "userUid1",
+            "dateCreated": 1694462473163,
+            "description": "Audio 1 Description",
+            "duration": 10,
+            "likes": 5,
+            "url": "https://firebasestorage.googleapis.com/v0/b/vitsiproject.appspot.com/o/audios%2F42eDiRHV5eaEWJHEEHyZEiRz1o12%2Fd532b06d-e54f-48e4-af03-79bff0a72e42?alt=media&token=3675705e-16fa-4b2a-a896-50adb185b417",
+            "views": 100,
+            "location": {
+                "lat": 56.1234,
+                "lon": 43.1234,
+                "country": "Russia",
+                "city": "Saint-Petersburg"
+            }
+        },
+        "audioId2": {
+            "audioId": "audioId2",
+            "authorUid": "userUid2",
+            "dateCreated": 1663090983182,
+            "description": "Audio 2 Description",
+            "duration": 8,
+            "likes": 3,
+            "url": "https://firebasestorage.googleapis.com/v0/b/vitsiproject.appspot.com/o/audios%2F42eDiRHV5eaEWJHEEHyZEiRz1o12%2F8eaa47ed-fb59-48ac-9968-88c83aa70145?alt=media&token=edbb40db-5f47-4893-a289-67dc93b5ea43",
+            "views": 50,
+            "location": {
+                "lat": 55.6789,
+                "lon": 37.5678,
+                "country": "Russia",
+                "city": "Moscow"
+            }
+        },
+        "audioId3": {
+            "audioId": "audioId3",
+            "authorUid": "userUid3",
+            "dateCreated": 1678123456789,
+            "description": "Audio 3 Description",
+            "duration": 7,
+            "likes": 8,
+            "url": "https://firebasestorage.googleapis.com/v0/b/vitsiproject.appspot.com/o/audios%2F42eDiRHV5eaEWJHEEHyZEiRz1o12%2F87298d6b-f59b-4a7b-9514-f6de0da146a1?alt=media&token=4ee494e5-b3f4-4796-b107-5cfb0a59abf4",
+            "views": 75,
+            "location": {
+                "lat": 48.8588,
+                "lon": 2.2945,
+                "country": "France",
+                "city": "Paris"
+            }
+        },
+        "audioId4": {
+            "audioId": "audioId4",
+            "authorUid": "userUid4",
+            "dateCreated": 1689123456789,
+            "description": "Audio 4 Description",
+            "duration": 12,
+            "likes": 12,
+            "url": "https://firebasestorage.googleapis.com/v0/b/vitsiproject.appspot.com/o/audios%2F42eDiRHV5eaEWJHEEHyZEiRz1o12%2F3aee4388-9994-4cce-bd1e-8c438915ee4b?alt=media&token=35a5f639-5432-4776-8c60-93327a30782e",
+            "views": 120,
+            "location": {
+                "lat": 51.5074,
+                "lon": -0.1278,
+                "country": "United Kingdom",
+                "city": "London"
+            }
+        },
+        "audioId5": {
+            "audioId": "audioId5",
+            "authorUid": "userUid5",
+            "dateCreated": 1666789012345,
+            "description": "Audio 5 Description",
+            "duration": 9,
+            "likes": 6,
+            "url": "https://firebasestorage.googleapis.com/v0/b/vitsiproject.appspot.com/o/audios%2F42eDiRHV5eaEWJHEEHyZEiRz1o12%2F630e67ba-ad13-478b-8e30-030860887c0b?alt=media&token=1d728ebe-5979-4490-a20b-52005a10deca",
+            "views": 60,
+            "location": {
+                "lat": 40.7128,
+                "lon": -74.0060,
+                "country": "United States",
+                "city": "New York"
+            }
+        },
+        "audioId6": {
+            "audioId": "audioId6",
+            "authorUid": "userUid1",
+            "dateCreated": 1698123456789,
+            "description": "Audio 6 Description",
+            "duration": 11,
+            "likes": 7,
+            "url": "https://firebasestorage.googleapis.com/v0/b/vitsiproject.appspot.com/o/audios%2F42eDiRHV5eaEWJHEEHyZEiRz1o12%2Fffed40ee-d963-443b-b70d-e0ab51d9247c?alt=media&token=3f197811-1f8c-4841-9bee-7af108c802ca",
+            "views": 70,
+            "location": {
+                "lat": 35.6895,
+                "lon": 139.6917,
+                "country": "Japan",
+                "city": "Tokyo"
+            }
+        },
+        "audioId7": {
+            "audioId": "audioId7",
+            "authorUid": "userUid2",
+            "dateCreated": 1667234567890,
+            "description": "Audio 7 Description",
+            "duration": 8,
+            "likes": 4,
+            "url": "https://firebasestorage.googleapis.com/v0/b/vitsiproject.appspot.com/o/audios%2F42eDiRHV5eaEWJHEEHyZEiRz1o12%2F063b6ce9-50a9-46ac-9e72-3a1cc62decf7?alt=media&token=4e34c57c-19f4-4e1d-9a7b-042bd198aef9",
+            "views": 45,
+            "location": {
+                "lat": 40.4168,
+                "lon": -3.7038,
+                "country": "Spain",
+                "city": "Madrid"
+            }
+        },
+        "audioId8": {
+            "audioId": "audioId8",
+            "authorUid": "userUid3",
+            "dateCreated": 1678345678901,
+            "description": "Audio 8 Description",
+            "duration": 10,
+            "likes": 9,
+            "url": "https://firebasestorage.googleapis.com/v0/b/vitsiproject.appspot.com/o/audios%2F42eDiRHV5eaEWJHEEHyZEiRz1o12%2F40868355-17a1-4a47-bef3-fb9d0ba8877d?alt=media&token=54ab9e3e-1bff-450b-a662-fcbe769214f2",
+            "views": 90,
+            "location": {
+                "lat": 52.5200,
+                "lon": 13.4050,
+                "country": "Germany",
+                "city": "Berlin"
+            }
+        },
+        "audioId9": {
+            "audioId": "audioId9",
+            "authorUid": "userUid4",
+            "dateCreated": 1689456789012,
+            "description": "Audio 9 Description",
+            "duration": 6,
+            "likes": 11,
+            "url": "https://firebasestorage.googleapis.com/v0/b/vitsiproject.appspot.com/o/audios%2F42eDiRHV5eaEWJHEEHyZEiRz1o12%2Fb6403903-5e63-49b2-af57-2fdf23cb0f5b?alt=media&token=c9752aa3-8eb1-4031-b0d7-ec677838d4d3",
+            "views": 110,
+            "location": {
+                "lat": -33.8688,
+                "lon": 151.2093,
+                "country": "Australia",
+                "city": "Sydney"
+            }
+        },
+        "audioId10": {
+            "audioId": "audioId10",
+            "authorUid": "userUid5",
+            "dateCreated": 1667890123456,
+            "description": "Audio 10 Description",
+            "duration": 7,
+            "likes": 10,
+            "url": "https://firebasestorage.googleapis.com/v0/b/vitsiproject.appspot.com/o/audios%2F42eDiRHV5eaEWJHEEHyZEiRz1o12%2F152d210f-27d7-4adf-9223-32756dc46f01?alt=media&token=b93e14ef-6727-42e2-aa04-a5a179e256bd",
+            "views": 70,
+            "location": {
+                "lat": -22.9068,
+                "lon": -43.1729,
+                "country": "Brazil",
+                "city": "Rio de Janeiro"
+            }
+        }
+    },
+    "users": {
+        "userUid1": {
+            "basic-data": {
+                "profilePictureUrl": "https://example.com/user1.jpg",
+                "showLikedAudios": true,
+                "totalLikes": 10,
+                "uid": "userUid1",
+                "username": "User1"
+            },
+            "liked-audios": {
+                "audioId1": "audioId1",
+                "audioId6": "audioId6"
+            },
+            "public-audios": {
+                "audioId1": "audioId1",
+                "audioId6": "audioId6"
+            }
+        },
+        "userUid2": {
+            "basic-data": {
+                "profilePictureUrl": "https://example.com/user2.jpg",
+                "showLikedAudios": true,
+                "totalLikes": 8,
+                "uid": "userUid2",
+                "username": "User2"
+            },
+            "liked-audios": {
+                "audioId2": "audioId2",
+                "audioId7": "audioId7"
+            },
+            "public-audios": {
+                "audioId2": "audioId2",
+                "audioId7": "audioId7"
+            }
+        },
+        "userUid3": {
+            "basic-data": {
+                "profilePictureUrl": "https://example.com/user3.jpg",
+                "showLikedAudios": true,
+                "totalLikes": 15,
+                "uid": "userUid3",
+                "username": "User3"
+            },
+            "liked-audios": {
+                "audioId3": "audioId3",
+                "audioId8": "audioId8"
+            },
+            "public-audios": {
+                "audioId3": "audioId3",
+                "audioId8": "audioId8"
+            }
+        },
+        "userUid4": {
+            "basic-data": {
+                "profilePictureUrl": "https://example.com/user4.jpg",
+                "showLikedAudios": true,
+                "totalLikes": 12,
+                "uid": "userUid4",
+                "username": "User4"
+            },
+            "liked-audios": {
+                "audioId4": "audioId4",
+                "audioId9": "audioId9"
+            },
+            "public-audios": {
+                "audioId4": "audioId4",
+                "audioId9": "audioId9"
+            }
+        },
+        "userUid5": {
+            "basic-data": {
+                "profilePictureUrl": "https://example.com/user5.jpg",
+                "showLikedAudios": true,
+                "totalLikes": 7,
+                "uid": "userUid5",
+                "username": "User5"
+            },
+            "liked-audios": {
+                "audioId5": "audioId5",
+                "audioId10": "audioId10"
+            },
+            "public-audios": {
+                "audioId5": "audioId5",
+                "audioId10": "audioId10"
+            }
+        }
+    }
+}
